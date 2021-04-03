@@ -5,4 +5,4 @@ first commit on branch dev
 <<<<<<< HEAD
 second commit on branch dev try no  (conflit is comining) fast forward
 second commit on branch gc try casue conflit
-
+one more commit on master branch
